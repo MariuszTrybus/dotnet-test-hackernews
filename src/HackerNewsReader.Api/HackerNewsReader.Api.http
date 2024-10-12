@@ -1,0 +1,4 @@
+GET localhost:5000/beststories?n=200
+Accept: application/json
+
+###
